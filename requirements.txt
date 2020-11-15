@@ -1,0 +1,5 @@
+djangogirls
+    myvenv
+        
+    requirements.txt
+Django~=2.2.4
